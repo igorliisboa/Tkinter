@@ -1,2 +1,2 @@
 # Tkinter
-Estudando Tkinter (Biblioteca para a criação de interfaces em Python) 
+Estudando Tkinter (Framework para a criação de interfaces em Python) 
